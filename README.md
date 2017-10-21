@@ -16,3 +16,14 @@ Laravel 5.4
 Bootstrap 3.3
 MySql/MariaDB
 
+Database connection file are as follows and can be found in the .env file:
+
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=online_shop
+DB_USERNAME=root
+DB_PASSWORD=
+
+To Deploy this app, you need to install composer
+
