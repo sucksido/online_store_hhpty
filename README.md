@@ -25,5 +25,12 @@ DB_DATABASE=online_shop
 DB_USERNAME=root
 DB_PASSWORD=
 
+
+I have also included the mysql dump, all you need to do is create a dababase called "online_shop" and dump the SQL in your mysql client/phpmyadmin
+
 To Deploy this app, you need to install composer
+
+You will to create a new laravel project using the following command on your terminal:
+
+composer create-porject laravel/laravel online_shop then copy all the code in this repo
 
